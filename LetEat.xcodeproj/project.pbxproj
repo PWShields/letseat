@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4740EC7B21F5A10A001C1EC9 /* ExploreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4740EC7921F5A109001C1EC9 /* ExploreViewController.swift */; };
+		4740EC7C21F5A10A001C1EC9 /* RestaurantViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4740EC7A21F5A10A001C1EC9 /* RestaurantViewController.swift */; };
 		47E5C88E21F2E6B50041794A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47E5C88D21F2E6B50041794A /* AppDelegate.swift */; };
 		47E5C89321F2E6B50041794A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47E5C89121F2E6B50041794A /* Main.storyboard */; };
 		47E5C89821F2E6BA0041794A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47E5C89621F2E6BA0041794A /* LaunchScreen.storyboard */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4740EC7921F5A109001C1EC9 /* ExploreViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExploreViewController.swift; sourceTree = "<group>"; };
+		4740EC7A21F5A10A001C1EC9 /* RestaurantViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RestaurantViewController.swift; sourceTree = "<group>"; };
 		47E5C88A21F2E6B50041794A /* LetEat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LetEat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		47E5C88D21F2E6B50041794A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		47E5C89221F2E6B50041794A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -54,6 +58,8 @@
 			children = (
 				47E5C88D21F2E6B50041794A /* AppDelegate.swift */,
 				47E5C89121F2E6B50041794A /* Main.storyboard */,
+				4740EC7921F5A109001C1EC9 /* ExploreViewController.swift */,
+				4740EC7A21F5A10A001C1EC9 /* RestaurantViewController.swift */,
 				47E5C89F21F2ED7F0041794A /* Assets.xcassets */,
 				47E5C89621F2E6BA0041794A /* LaunchScreen.storyboard */,
 				47E5C89921F2E6BA0041794A /* Info.plist */,
@@ -132,6 +138,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4740EC7B21F5A10A001C1EC9 /* ExploreViewController.swift in Sources */,
+				4740EC7C21F5A10A001C1EC9 /* RestaurantViewController.swift in Sources */,
 				47E5C88E21F2E6B50041794A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
