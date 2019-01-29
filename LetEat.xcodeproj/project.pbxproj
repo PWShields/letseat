@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		47313EE522001F6D003B43CC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		4740EC7921F5A109001C1EC9 /* ExploreViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExploreViewController.swift; sourceTree = "<group>"; };
 		4740EC7A21F5A10A001C1EC9 /* RestaurantViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RestaurantViewController.swift; sourceTree = "<group>"; };
 		47E5C88A21F2E6B50041794A /* LetEat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LetEat.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -40,6 +41,7 @@
 		47E5C88121F2E6B40041794A = {
 			isa = PBXGroup;
 			children = (
+				47313EE522001F6D003B43CC /* README.md */,
 				47E5C88C21F2E6B50041794A /* LetEat */,
 				47E5C88B21F2E6B50041794A /* Products */,
 			);
